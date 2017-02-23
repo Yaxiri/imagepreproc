@@ -5,4 +5,4 @@ Repositorio para el proyecto de aseguramiento, cuyo enfoque se basa en el prepro
 
 - Marcello: True
 - Kimberly: False
-- Nazareth: False
+- Nazareth: True
