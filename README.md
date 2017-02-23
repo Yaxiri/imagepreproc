@@ -4,5 +4,5 @@ Repositorio para el proyecto de aseguramiento, cuyo enfoque se basa en el prepro
 ### Commiting confirmation
 
 - Marcello: True
-- Kimberly: False
+- Kimberly: True
 - Nazareth: True
