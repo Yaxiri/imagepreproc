@@ -6,4 +6,4 @@ Repositorio para el proyecto de aseguramiento, cuyo enfoque se basa en el prepro
 - Marcello: True
 - Kimberly: True
 - Nazareth: True
-- Yaxiri: False
+- Yaxiri: True
